@@ -1,11 +1,8 @@
 # coder8ball
 
-The 8ball for lazy repository maintainers.
-
-Have you ever been confronted with having to maintain a software which other
-people started to use, and now bug reports are piling up?  Here is the
-solution.  No need to think for yourself, the magic coder8ball will tell you
-what to do.
+This Magic 8-Ball provides the solution to all the bug reports that are piling
+up in your repositories.  Just roll it and it will tell you what to do with
+them!
 
 # Example
 
