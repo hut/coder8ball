@@ -1,5 +1,5 @@
 #!/bin/sh
-( shuf | head -n 1 ) <<EOF
+shuf -n1 <<EOF
 Close with "Won't fix."
 Close with "Works for me." independently of whether it works
 Close with "#YOLO"
